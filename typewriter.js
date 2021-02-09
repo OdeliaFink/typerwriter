@@ -1,3 +1,4 @@
+// const phrase = "hi i'm odelia"
 const sentence = "hello there from lighthouse labs";
 
 let timedSentence = function(words) {
